@@ -735,10 +735,10 @@ vite@^3.0.0, vite@^3.0.7:
   optionalDependencies:
     fsevents "~2.3.2"
 
-vue-camera-lib@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.npmjs.org/vue-camera-lib/-/vue-camera-lib-1.0.5.tgz"
-  integrity sha512-bVMhFgzqZYw+lVh0A6WXspo6ndtzMSX+1HnaKJ6I2z03y6+BevVtx1cWN6d/Pw1c8zWyHP0zUIUx2SiEvTekFQ==
+vue-camera-lib@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.npmjs.org/vue-camera-lib/-/vue-camera-lib-1.0.6.tgz"
+  integrity sha512-RPAtOqEG9DHvyuVZe42ukByDJBY8q9Epcrp+H8koB8TDgVJnDb+ycT/FcEmyKtd4puTQquMj7NOow4qXw7BcqA==
   dependencies:
     deviceorientation-js "^1.0.0"
     rotate-canvas "^1.0.0"
